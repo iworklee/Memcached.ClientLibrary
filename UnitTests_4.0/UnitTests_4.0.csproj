@@ -45,7 +45,7 @@
     <Compile Include="UnitTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\clientlib_4.0.csproj">
+    <ProjectReference Include="..\clientlib_4.0\clientlib_4.0.csproj">
       <Project>{9907bdd0-632c-4e88-8c6a-c38a5f40c845}</Project>
       <Name>clientlib_4.0</Name>
     </ProjectReference>

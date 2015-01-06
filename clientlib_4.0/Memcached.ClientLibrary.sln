@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clientlib_4.0", "clientlib_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemCachedBench_4.0", "..\MemCachedBench_4.0\MemCachedBench_4.0.csproj", "{046C2E86-300C-4734-913C-B5E8CB19032C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemCachedTest_4.0", "MemCachedTest_4.0\MemCachedTest_4.0.csproj", "{4088845B-DF06-4A97-94BA-ED599F8D447E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemCachedTest_4.0", "..\MemCachedTest_4.0\MemCachedTest_4.0.csproj", "{4088845B-DF06-4A97-94BA-ED599F8D447E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests_4.0", "UnitTests_4.0\UnitTests_4.0.csproj", "{49B26B9F-CD7D-4C59-A295-6DF596C47AB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests_4.0", "..\UnitTests_4.0\UnitTests_4.0.csproj", "{49B26B9F-CD7D-4C59-A295-6DF596C47AB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
